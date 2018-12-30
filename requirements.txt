@@ -1,0 +1,8 @@
+# Machine Learning
+jupyter==1.0.0
+matplotlib==2.2.2
+pandas==0.23.0
+scikit-learn[alldeps]==0.19.2
+tqdm==4.23.3
+requests==2.18.4
+geopy==1.14.0

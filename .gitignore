@@ -1,0 +1,6 @@
+Tmp.ipynb
+datasets/base_*/**
+*.pyc
+*-checkpoint.ipynb
+*.pkl
+datasets/base_*_evaluation_result_*.json
